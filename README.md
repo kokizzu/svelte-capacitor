@@ -2,6 +2,19 @@
 # Svelte + Capacitor (w/ live reload) Template
 
 This is a project template for [Svelte](https://svelte.dev) + [CapacitorJS](https://capacitorjs.com) apps with live reload, granting the ability to quickly build production ready applications for iOS and Android at near-native performance using JavaScript (Svelte). 
+
+> [!IMPORTANT]  
+> **`NOT ABANDONWARE`**
+>
+> This code may be a bit ancient in techland terms, but its still useful and able to be easily upgradeable. This remains a decent jumping off point to get started. 
+>
+> **`CALL FOR HELP`**
+>
+> If you're interested in updating and testing the deps, I'll merge a PR (or three) to get it done. If no one takes the plunge, I'll try to find time, no promises. 
+>
+> `last login from user @drannex 2025-07-02T18:31:11.240Z (1751481071)`
+> 
+
 ## Changelog
 
 **v2.0.0** - The new version is here, this comes with some better defaults, vite as the build manager, built in routing library, TypeScript, and aliases. While this could be seen as an 'incremental' update I think this works as a v2.0.0 as it was a complete rewrite.
