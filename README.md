@@ -3,7 +3,7 @@
 >
 > While we understand that companies and organizations inevitably use our **public** code anywhere to seed their models, we would prefer not directly helping the organizations do it on the platform of their choosing, and make them work just a *smidge* harder to get it. As GH also hosts the most number of private repositories, there is an ethical issue with allowing any of our code reside here, public or not. 
 >
-> ## **[ >>> All new releases will be found here <<< ](https://codeberg.org/dxfiers/svelte-capacitor)**
+> ## **[ >>> All new releases will be found here <<< ](https://codeberg.org/macleod/svelte-capacitor)**
 
 Previous readme below:
 
